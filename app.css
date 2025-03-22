@@ -1,0 +1,30 @@
+#innerleft{
+    border: black solid;
+    /* margin: 2px; */
+    height: 100vh;
+    width: 50vh;
+    overflow: scroll;
+    
+
+}
+main{
+    border: 10px;
+    border: red solid;
+    overflow: scroll;
+}
+ #innerright{
+    border: gray solid;
+    border-left: none;
+    height: 100vh;
+    width: 120vh;
+    overflow: scroll;
+    
+
+ }
+body{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color:black;
+}
